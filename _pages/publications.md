@@ -29,13 +29,12 @@ The rapid spread of mobile money throughout sub-Saharan Africa has paved the way
   <b>Abstract</b><br>
 Women’s groups have the potential to increase the resiliency of members and communities during widespread shocks, such as COVID-19. This evidence synthesis compiles data from past shocks to describe the responses and mitigating effects of women’s groups during shocks. We found that covariate shocks tend to disrupt group activities and resources, but evidence was largely supportive of women’s groups providing resilience to members and communities. We finalize the paper with policy recommendations for women’s groups during COVID-19, including sustainable access to financial resources; equitable distribution of group benefits and burdens; and enhancing community response through meaningful partnerships.
 
-<p>
   
-## <b>Economic Evaluation</b>
+## <b>Economic Evaluation</b><p>
 
 
 After earning my MPH, I spent four years working as a research associate with the Economic Evaluation Research Group (EERG) at the University of Georgia’s College of Public Health. In my role at EERG, I collaborated on numerous projects at the state, national, and international levels. Most of my work focused on the economic implications of public health initiatives, but I also served as the primary writer of the cost analysis report for OPRE’s national MIHOPE study.
-
+<p>
 
 * <i><b>“There’s no such thing as a free TB diagnosis: Catastrophic TB costs in urban Uganda”</b>, with Ingels JB, Corso PS, Zalwango S, Whalen CC, Sekandi JN. Published in [Global Public Health](https://pubmed.ncbi.nlm.nih.gov/32027555/), 2020</i>
 
