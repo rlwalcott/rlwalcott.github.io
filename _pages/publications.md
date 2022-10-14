@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 This page contains select examples of both ongoing and past research. I have divided the selected research into the slightly-overlapping categories of International Development, Economic Evaluation, and Public Health. For a full list of publications, please see my CV.
 
@@ -37,7 +33,7 @@ Women’s groups have the potential to increase the resiliency of members and co
   
 ## <b>Economic Evaluation</b>
 
-<p>
+
 After earning my MPH, I spent four years working as a research associate with the Economic Evaluation Research Group (EERG) at the University of Georgia’s College of Public Health. In my role at EERG, I collaborated on numerous projects at the state, national, and international levels. Most of my work focused on the economic implications of public health initiatives, but I also served as the primary writer of the cost analysis report for OPRE’s national MIHOPE study.
 
 
@@ -45,7 +41,7 @@ After earning my MPH, I spent four years working as a research associate with th
 
 
   <b>Abstract</b><br>
-Identifying and reducing TB-related costs is necessary for achieving the End TB Strategy's goal that no family is burdened with catastrophic costs. This study explores costs during the pre-diagnosis period and assesses the potential for using coping costs as a proxy indicator for catastrophic costs when comprehensive surveys are not feasible. Detailed interviews about TB-related costs and productivity losses were conducted with 196 pulmonary TB patients in Kampala, Uganda. The threshold for catastrophic costs was defined as 20% of household income. Multivariable regression analyses were used to assess the influence of patient characteristics on economic burden, and the positive predictive value (PPV) of coping costs was estimated. Over 40% of patients experienced catastrophic costs, with average (median) pre-diagnosis costs making up 30.6% (14.1%) of household income. Low-income status (AOR = 2.91, 95% CI = 1.29, 6.72), hospitalisation (AOR = 8.66, 95% CI = 2.60; 39.54), and coping costs (AOR = 3.84, 95% CI = 1.81; 8.40) were significantly associated with the experience of catastrophic costs. The PPV of coping costs as an indicator for catastrophic costs was estimated to be 73% (95% CI = 58%, 84%). TB patients endure a substantial economic burden during the pre-diagnosis period, and identifying households that experience coping costs may be a useful proxy measure for identifying catastrophic costs.<p>
+Identifying and reducing TB-related costs is necessary for achieving the End TB Strategy's goal that no family is burdened with catastrophic costs. This study explores costs during the pre-diagnosis period and assesses the potential for using coping costs as a proxy indicator for catastrophic costs when comprehensive surveys are not feasible. Detailed interviews about TB-related costs and productivity losses were conducted with 196 pulmonary TB patients in Kampala, Uganda. The threshold for catastrophic costs was defined as 20% of household income. Multivariable regression analyses were used to assess the influence of patient characteristics on economic burden, and the positive predictive value (PPV) of coping costs was estimated. Over 40% of patients experienced catastrophic costs, with average (median) pre-diagnosis costs making up 30.6% (14.1%) of household income. Low-income status (AOR = 2.91, 95% CI = 1.29, 6.72), hospitalisation (AOR = 8.66, 95% CI = 2.60; 39.54), and coping costs (AOR = 3.84, 95% CI = 1.81; 8.40) were significantly associated with the experience of catastrophic costs. The PPV of coping costs as an indicator for catastrophic costs was estimated to be 73% (95% CI = 58%, 84%). TB patients endure a substantial economic burden during the pre-diagnosis period, and identifying households that experience coping costs may be a useful proxy measure for identifying catastrophic costs.
 
 * <i><b>“Costs of Evidence-Based Early Childhood Home Visiting: Results from the Mother and Infant Home Visiting Program Evaluation”</b>, with Corso PS, Ingels JB. Published [OPRE report](https://www.acf.hhs.gov/opre/report/costs-evidence-based-early-childhood-home-visiting-results-mother-and-infant-home), 2022.</i>
 <p>
