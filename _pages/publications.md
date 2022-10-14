@@ -31,7 +31,7 @@ The rapid spread of mobile money throughout sub-Saharan Africa has paved the way
 
   <b>Abstract</b><br>
 Women’s groups have the potential to increase the resiliency of members and communities during widespread shocks, such as COVID-19. This evidence synthesis compiles data from past shocks to describe the responses and mitigating effects of women’s groups during shocks. We found that covariate shocks tend to disrupt group activities and resources, but evidence was largely supportive of women’s groups providing resilience to members and communities. We finalize the paper with policy recommendations for women’s groups during COVID-19, including sustainable access to financial resources; equitable distribution of group benefits and burdens; and enhancing community response through meaningful partnerships.
-  
+</ul>
 <p>
 <b>Economic Evaluation</b>
 <p>
@@ -42,18 +42,18 @@ After earning my MPH, I spent four years working as a research associate with th
   <b>Abstract</b><br>
 Identifying and reducing TB-related costs is necessary for achieving the End TB Strategy's goal that no family is burdened with catastrophic costs. This study explores costs during the pre-diagnosis period and assesses the potential for using coping costs as a proxy indicator for catastrophic costs when comprehensive surveys are not feasible. Detailed interviews about TB-related costs and productivity losses were conducted with 196 pulmonary TB patients in Kampala, Uganda. The threshold for catastrophic costs was defined as 20% of household income. Multivariable regression analyses were used to assess the influence of patient characteristics on economic burden, and the positive predictive value (PPV) of coping costs was estimated. Over 40% of patients experienced catastrophic costs, with average (median) pre-diagnosis costs making up 30.6% (14.1%) of household income. Low-income status (AOR = 2.91, 95% CI = 1.29, 6.72), hospitalisation (AOR = 8.66, 95% CI = 2.60; 39.54), and coping costs (AOR = 3.84, 95% CI = 1.81; 8.40) were significantly associated with the experience of catastrophic costs. The PPV of coping costs as an indicator for catastrophic costs was estimated to be 73% (95% CI = 58%, 84%). TB patients endure a substantial economic burden during the pre-diagnosis period, and identifying households that experience coping costs may be a useful proxy measure for identifying catastrophic costs. 
 
-  </li><li><i><b>“Costs of Evidence-Based Early Childhood Home Visiting: Results from the Mother and Infant Home Visiting Program Evaluation”</b>, with Corso PS, Ingels JB. [published OPRE report (2022)].</i><p>
+  <li><i><b>“Costs of Evidence-Based Early Childhood Home Visiting: Results from the Mother and Infant Home Visiting Program Evaluation”</b>, with Corso PS, Ingels JB. [published OPRE report (2022)].</i><p>
 
 In partnership with colleagues at HRSA, OPRE, and MDRC, we conducted this study as part of the nationwide Mother and Infant Home Visiting Program Evaluation (MIHOPE). We surveyed more than 60 local home visiting programs to understand how programs allocate resources, and we developed a unique microcosting methodology to estimate the costs to provide home visiting services to a family for a year. We found that local program costs for serving a family during its first year of home visiting varied considerably, with the cost for the middle half of families ranging between $1,304 and $5,788 per year. Average costs did not differ across characteristics of mothers but did vary widely according to the program model being implemented.
 
-  </li><li><i><b>"Benefit-cost analysis of undergraduate education programs: An example analysis of the Freshman Research Initiative”</b>, with Corso PS, Rodenbusch SE, Dolan EL. [published in CBE-Life Sciences Education (2018)].</i><p>
+  <li><i><b>"Benefit-cost analysis of undergraduate education programs: An example analysis of the Freshman Research Initiative”</b>, with Corso PS, Rodenbusch SE, Dolan EL. [published in CBE-Life Sciences Education (2018)].</i><p>
 
   <b>Abstract</b><br>
 Institutions and administrators regularly have to make difficult choices about how best to invest resources to serve students. Yet economic evaluation, or the systematic analysis of the relationship between costs and outcomes of a program or policy, is relatively uncommon in higher education. This type of evaluation can be an important tool for decision makers considering questions of resource allocation. Our purpose with this essay is to describe methods for conducting one type of economic evaluation, a benefit-cost analysis (BCA), using an example of an existing undergraduate education program, the Freshman Research Initiative (FRI) at the University of Texas Austin. Our aim is twofold: to demonstrate how to apply BCA methodologies to evaluate an education program and to conduct an economic evaluation of FRI in particular. We explain the steps of BCA, including assessment of costs and benefits, estimation of the benefit-cost ratio, and analysis of uncertainty. We conclude that the university's investment in FRI generates a positive return for students in the form of increased future earning potential
-  </li></ul>
-  
+  </ul>
+  <p>
 <b>Public Health</b>
-
+<p>
 While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete repository of state-level COVID-19 policies, and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as:
 
 <ul><li><i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i>
