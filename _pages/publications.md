@@ -58,23 +58,23 @@ Institutions and administrators regularly have to make difficult choices about h
 ## <b>Public Health</b>
 
   
-<p>While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete [repository of state-level COVID-19 policies](https://github.com/COVID19StatePolicy/SocialDistancing), and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as:<br>
+<p>While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete [repository of state-level COVID-19 policies](https://github.com/COVID19StatePolicy/SocialDistancing), and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as:  
 
 
-* <i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i>
++ <i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i>
 
 
 <p>During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.<p>
 
 
-<ul><li><i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the [Journal of Community Health](https://link.springer.com/article/10.1007/s10900-017-0449-x), 2018</i>
+<ul><li><i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the [Journal of Community Health](https://link.springer.com/article/10.1007/s10900-017-0449-x), 2018</i><br>
 
 
   <b>Abstract</b><br>
 Sleep-related infant deaths are a leading cause of infant mortality in Georgia, and these deaths are largely associated with unsafe sleep practices among caregivers. In early 2016, the Georgia Department of Public Health launched the Georgia Safe to Sleep Hospital Initiative, providing hospitals with safe infant sleep information and educational materials to be distributed to families and newborns. This study examined the knowledge and behaviors of a sample of Georgia parents after the implementation of the Hospital Initiative and identified the family characteristics and intervention components most closely associated with the knowledge and practice of safe infant sleep. The primary caretakers of all infants born in Georgia from August to October 2016 were invited to complete a web-based survey 1 month after hospital discharge. The final sample size included 420 parents of newborns, and the primary outcomes assessed included two measures of knowledge and four measures of infant sleep behaviors regarding infant sleep position and location. Most respondents demonstrated knowledge of the correct recommended sleep position (90%) and location (85%). Logistic regression revealed that receipt of information in the hospital was significantly correlated with safe sleep behaviors, and infant sleep habits tended to influence safe sleep practices. Additionally, Medicaid parents receiving bassinets from the hospital were 74% less likely to bed share (OR 0.26; 95% CI 0.007). Implementation of a statewide hospital initiative was associated with high levels of parental knowledge and behavior and may have been successful in reducing the practice of bed sharing among Medicaid parents.
 
 
-<li><i><b>“The impact of nursing students on the health-related quality of life and perceived social support of a rural population in Ecuador: Effects of a service-based learning course”</b> with Murcia AM, Berry GM, Juna C, Roldós MI, Corso PS. Published in the [International Journal for Equity in Health](https://pubmed.ncbi.nlm.nih.gov/29391018/), 2018.</i>
+<li><i><b>“The impact of nursing students on the health-related quality of life and perceived social support of a rural population in Ecuador: Effects of a service-based learning course”</b> with Murcia AM, Berry GM, Juna C, Roldós MI, Corso PS. Published in the [International Journal for Equity in Health](https://pubmed.ncbi.nlm.nih.gov/29391018/), 2018.</i><br>
 
 
   <b>Abstract</b><br>
@@ -84,7 +84,7 @@ Results: When compared to the control group, the intervention group realized sig
 Conclusions: Nursing students completing their rural service rotation have the potential to improve the health-related quality of life of rural residents in Ecuador. Future research should continue to examine the impact of service-based learning on recipient populations.
 
 
-<li><i><b>“Emergency department use among uninsured adults before and after enrolling in a free clinic”</b>, with Ingels JB, Corso PS. [working paper]</i>
+<li><i><b>“Emergency department use among uninsured adults before and after enrolling in a free clinic”</b>, with Ingels JB, Corso PS. [working paper]</i><br>
 
   <b>Abstract</b><br>
 The objective of this study was to examine emergency department (ED) use among a group of uninsured adults before and after gaining access to primary care at a free clinic. We identified a cohort of 185 adult patients and compared rates of ED use by visit severity. The rate of non-emergent ED visits decreased by 39% when comparing the cohort’s ED use before and after clinic enrollment (rate ratio=0.61, p=0.001). There were no significant reductions in emergent ED visits. Gaining access to primary care through a free clinic has the potential to reduce non-emergent ED visits for uninsured adults.
