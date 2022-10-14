@@ -60,10 +60,11 @@ Institutions and administrators regularly have to make difficult choices about h
   
 <p>While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete [repository of state-level COVID-19 policies](https://github.com/COVID19StatePolicy/SocialDistancing), and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as:
 
+
 * <i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i>
 
 
-<p>During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.
+<p>During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.<p>
 
 
 * <i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the [Journal of Community Health](https://link.springer.com/article/10.1007/s10900-017-0449-x), 2018</i>
