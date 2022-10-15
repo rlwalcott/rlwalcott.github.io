@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page contains select examples of both ongoing and past research. I have divided the selected research into the slightly-overlapping categories of International Development, Economic Evaluation, and Public Health. For a full list of publications, please see my [CV](https://rlwalcott.github.io/files/CV202210_Walcott.pdf/).
+This page contains select examples of both ongoing and past research. I have divided the selected research into the slightly-overlapping categories of International Development, Economic Evaluation, and Public Health. For a full list of publications, please see my [CV](https://rlwalcott.github.io/files/CV202210_Walcott.pdf).
 
 
 ## <b>International Development</b>
