@@ -60,9 +60,11 @@ Institutions and administrators regularly have to make difficult choices about h
 
 While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete [repository of state-level COVID-19 policies](https://github.com/COVID19StatePolicy/SocialDistancing/), and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as
 
-<ul><li><i>Global Burden of Disease Long COVID Collaborators (includes Walcott R). Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 (available online: doi:10.1001/jama.2022.18931).</i></li></ul>
+<ul><li><i>Global Burden of Disease Long COVID Collaborators, includes Walcott R. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022.</i></li></ul>
 
-<p>During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.<p>
+
+During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.
+
 
 * <i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the <a href="https://link.springer.com/article/10.1007/s10900-017-0449-x">Journal of Community Health</a>, 2018</i>
 
@@ -79,17 +81,7 @@ Methods: A quasi-experimental non-equivalent control group design study was cond
 Results: When compared to the control group, the intervention group realized significant improvements in the physical component summary score of the SF-12 (4.20, p < 0.05) and the physical function domain of the SF-12 (4.92, p < 0.05). There were no statistically significant differences for any other components of the SF-12 or in the measure of perceived social support.<br>
 Conclusions: Nursing students completing their rural service rotation have the potential to improve the health-related quality of life of rural residents in Ecuador. Future research should continue to examine the impact of service-based learning on recipient populations.
 
-* <i><b>“Emergency department use among uninsured adults before and after enrolling in a free clinic”</b>, with Ingels JB, Corso PS. [working paper]</i><br>
+* <i><b>“Emergency department use among uninsured adults before and after enrolling in a free clinic”</b>, with Ingels JB, Corso PS. working paper</i><br>
 
   <b>Abstract</b><br>
 The objective of this study was to examine emergency department (ED) use among a group of uninsured adults before and after gaining access to primary care at a free clinic. We identified a cohort of 185 adult patients and compared rates of ED use by visit severity. The rate of non-emergent ED visits decreased by 39% when comparing the cohort’s ED use before and after clinic enrollment (rate ratio=0.61, p=0.001). There were no significant reductions in emergent ED visits. Gaining access to primary care through a free clinic has the potential to reduce non-emergent ED visits for uninsured adults.
-
-
-
-
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
