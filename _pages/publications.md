@@ -17,18 +17,19 @@ Most of my recent research has focused on international development topics. My d
 
   <details><summary><b>Abstract</b></summary>
   <br>
-In 2014, Tanzania became the first country to implement a policy requiring mobile money providers to distribute interest to mobile money account holders. Supporters of the policy note the potential benefits to users, while banking sector opponents worry that users will forego bank accounts in favor of mobile wallets. This study uses data from Waves 4 and 5 of the Tanzania NPS in a difference-in-differences approach to estimate the impact of an interest policy that rewards mobile savings on savings behavior. I find the treatment effect of the savings incentive policy to be an 11 percentage point increase in the probability that a household will use mobile money to save. Further, there is no indication that users substitute mobile wallets for bank accounts, which should quell concerns of negative outcomes for financial institutions. Mobile interest distribution is a promising yet underexplored mechanism for increasing financial inclusion among the world’s poorest.
-</details>
+In 2014, Tanzania became the first country to implement a policy requiring mobile money providers to distribute interest to mobile money account holders. Supporters of the policy note the potential benefits to users, while banking sector opponents worry that users will forego bank accounts in favor of mobile wallets. This study uses data from Waves 4 and 5 of the Tanzania NPS in a difference-in-differences approach to estimate the impact of an interest policy that rewards mobile savings on savings behavior. I find the treatment effect of the savings incentive policy to be an 11 percentage point increase in the probability that a household will use mobile money to save. Further, there is no indication that users substitute mobile wallets for bank accounts, which should quell concerns of negative outcomes for financial institutions. Mobile interest distribution is a promising yet underexplored mechanism for increasing financial inclusion among the world’s poorest.</details>
 
 * <i><b>“Determinants of demand for digital loan repayment among microfinance clients in Uganda”</b> [manuscript in preparation]</i>
 
-  <b>Abstract</b><br>
+  <details><summary><b>Abstract</b></summary>
+  <br>
 The rapid spread of mobile money throughout sub-Saharan Africa has paved the way for digital innovations in microfinance. Existing research is largely focused on the implications of digitization for loan repayment rates and operational efficiency, but this paper uniquely centers the overlooked perspectives of microfinance borrowers. I leverage a mixed-methods approach, including a quantitative discrete choice analysis and a qualitative content analysis of stated preferences, to explore the determinants of demand for a digital repayment option among a group of current microfinance clients in Uganda. I find that borrowers’ comfortability with mobile money, education level, and perceptions of the cost and convenience of digital repayment are important determinants of demand. However, qualitative data reveal heterogeneity in borrowers’ understanding of how digital repayment will impact the microfinance group structure and their future access to credit, which has substantial implications for the uptake of digital repayment. These findings can inform the design of digital microfinance innovations and also contribute to the broader literature around technology adoption by highlighting the importance of qualitative data and user-centered research. 
 
 * <i><b>“Women’s Groups, Covariate Shocks, and Resilience: An Evidence Synthesis of Past Shocks to Inform a Response to COVID-19”</b>, with Schmidt CJ, Kaminsky M, Singh R, Anderson CL, Desai S, & de Hoop T. [ECWG working paper](https://womensgroupevidence.org/sites/default/files/2021-03/ECWG%20Working%20Paper%20Shocks_final.pdf) , 2021. </i>
 
 
-  <b>Abstract</b><br>
+  <details><summary><b>Abstract</b></summary>
+    <br>
 Women’s groups have the potential to increase the resiliency of members and communities during widespread shocks, such as COVID-19. This evidence synthesis compiles data from past shocks to describe the responses and mitigating effects of women’s groups during shocks. We found that covariate shocks tend to disrupt group activities and resources, but evidence was largely supportive of women’s groups providing resilience to members and communities. We finalize the paper with policy recommendations for women’s groups during COVID-19, including sustainable access to financial resources; equitable distribution of group benefits and burdens; and enhancing community response through meaningful partnerships.
 
   
