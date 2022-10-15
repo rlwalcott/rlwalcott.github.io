@@ -15,7 +15,7 @@ Most of my recent research has focused on international development topics. My d
 
 * <i><b>“Mobile money interest distributions and savings behavior in Tanzania”</b> [currently under review]</i>
 
-  <summary><b>Abstract</b></summary>
+  <details><summary><b>Abstract</b></summary>
   <br>
 In 2014, Tanzania became the first country to implement a policy requiring mobile money providers to distribute interest to mobile money account holders. Supporters of the policy note the potential benefits to users, while banking sector opponents worry that users will forego bank accounts in favor of mobile wallets. This study uses data from Waves 4 and 5 of the Tanzania NPS in a difference-in-differences approach to estimate the impact of an interest policy that rewards mobile savings on savings behavior. I find the treatment effect of the savings incentive policy to be an 11 percentage point increase in the probability that a household will use mobile money to save. Further, there is no indication that users substitute mobile wallets for bank accounts, which should quell concerns of negative outcomes for financial institutions. Mobile interest distribution is a promising yet underexplored mechanism for increasing financial inclusion among the world’s poorest.
 </details>
