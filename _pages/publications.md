@@ -56,33 +56,25 @@ Institutions and administrators regularly have to make difficult choices about h
 
 
 ## <b>Public Health</b>
-
   
 <p>While at UW, I worked as a research assistant for the COVID-19 State Policy Research Team. We constructed the nation’s most detailed and complete [repository of state-level COVID-19 policies](https://github.com/COVID19StatePolicy/SocialDistancing/), and our primary collaborators at IHME have used the dataset in their development of several high-profile articles, such as
 
-
-* <i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i>
-
+<ul><li><i>Global Burden of Disease Long COVID Collaborators [includes Walcott R]. Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021. JAMA, 2022 [available online: doi:10.1001/jama.2022.18931].</i></li></ul>
 
 <p>During my time with EERG at UGA, I led a number of public health evaluations for local and state partners, as well as several global health initiatives.<p>
 
-
-* <i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the [Journal of Community Health](https://link.springer.com/article/10.1007/s10900-017-0449-x), 2018</i>
-
+* <i><b>“A statewide hospital-based safe infant sleep initiative: Measurement of parental knowledge and behavior”</b>, with Salm Ward TC, Ingels JB, Llewellyn NA, Miller TJ, Corso PS. Published in the <a href="https://link.springer.com/article/10.1007/s10900-017-0449-x">Journal of Community Health</a>, 2018</i>
 
   <b>Abstract</b><br>
 Sleep-related infant deaths are a leading cause of infant mortality in Georgia, and these deaths are largely associated with unsafe sleep practices among caregivers. In early 2016, the Georgia Department of Public Health launched the Georgia Safe to Sleep Hospital Initiative, providing hospitals with safe infant sleep information and educational materials to be distributed to families and newborns. This study examined the knowledge and behaviors of a sample of Georgia parents after the implementation of the Hospital Initiative and identified the family characteristics and intervention components most closely associated with the knowledge and practice of safe infant sleep. The primary caretakers of all infants born in Georgia from August to October 2016 were invited to complete a web-based survey 1 month after hospital discharge. The final sample size included 420 parents of newborns, and the primary outcomes assessed included two measures of knowledge and four measures of infant sleep behaviors regarding infant sleep position and location. Most respondents demonstrated knowledge of the correct recommended sleep position (90%) and location (85%). Logistic regression revealed that receipt of information in the hospital was significantly correlated with safe sleep behaviors, and infant sleep habits tended to influence safe sleep practices. Additionally, Medicaid parents receiving bassinets from the hospital were 74% less likely to bed share (OR 0.26; 95% CI 0.007). Implementation of a statewide hospital initiative was associated with high levels of parental knowledge and behavior and may have been successful in reducing the practice of bed sharing among Medicaid parents.
 
-
-* <i><b>“The impact of nursing students on the health-related quality of life and perceived social support of a rural population in Ecuador: Effects of a service-based learning course”</b> with Murcia AM, Berry GM, Juna C, Roldós MI, Corso PS. Published in the [International Journal for Equity in Health](https://pubmed.ncbi.nlm.nih.gov/29391018/), 2018.</i><br><br>
-
+* <i><b>“The impact of nursing students on the health-related quality of life and perceived social support of a rural population in Ecuador: Effects of a service-based learning course”</b> with Murcia AM, Berry GM, Juna C, Roldós MI, Corso PS. Published in the <a href="https://pubmed.ncbi.nlm.nih.gov/29391018/"> International Journal for Equity in Health</a>, 2018.</i><br>
 
   <b>Abstract</b><br>
 Background: Students seeking degrees in healthcare in Ecuador participate in community improvement projects and provide free health services under the supervision of faculty health professionals. The aim of this study is to determine the impact of a community-based intervention delivered by nursing students on health-related quality of life (HRQoL) and perceived social support of a rural population in Ecuador.<br>
 Methods: A quasi-experimental non-equivalent control group design study was conducted in two rural communities in Tumbaco, Ecuador. Families from one rural community were invited to participate in the intervention, receiving 8 weekly home visits from nursing students. Families from a neighboring community were similarly recruited as wait-list controls. One member of each family was consented into the study; the final sample included 43 intervention participants and 55 control participants. HRQoL and perceived social support were assessed before and after the intervention in both groups. The SF-12 was used to measure HRQoL, including eight domain scores and two composite scores, and the Interpersonal Support Evaluation List was used as an indicator of perceived social support. Difference-in-differences (DD) analyses were conducted to mitigate the effects of any baseline differences in the non- equivalent control group design.<br>
 Results: When compared to the control group, the intervention group realized significant improvements in the physical component summary score of the SF-12 (4.20, p < 0.05) and the physical function domain of the SF-12 (4.92, p < 0.05). There were no statistically significant differences for any other components of the SF-12 or in the measure of perceived social support.<br>
 Conclusions: Nursing students completing their rural service rotation have the potential to improve the health-related quality of life of rural residents in Ecuador. Future research should continue to examine the impact of service-based learning on recipient populations.
-
 
 * <i><b>“Emergency department use among uninsured adults before and after enrolling in a free clinic”</b>, with Ingels JB, Corso PS. [working paper]</i><br>
 
