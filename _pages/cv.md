@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-CV available for download [here](/files/CV202210_Walcott.pdf/).
+CV available for download [here](/files/CV202210_Walcott.pdf).
